@@ -553,12 +553,12 @@
   226670.19 208101.53 120.00
 [NStationary]
   0_Static vehicles.artillery.Artillery$M16_US 1 204112.73 175785.15 360.00 0.0 0
-  1_Static vehicles.artillery.Artillery$M16_US 1 203686.33 175751.48 360.00 0.0 0
+  1_Static vehicles.artillery.Artillery$M16_US 1 203651.02 175782.62 360.00 0.0 0
   2_Static vehicles.artillery.Artillery$M16_US 1 204566.16 175470.45 360.00 0.0 0
   3_Static vehicles.artillery.Artillery$M16_US 1 203504.13 175476.29 360.00 0.0 0
   4_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 203474.44 175788.46 360.00 0.0 0
   5_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 204329.60 175741.17 360.00 0.0 0
-  6_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 204470.22 175471.10 360.00 0.0 0
+  6_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 204470.72 175470.82 360.00 0.0 0
   7_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 203394.86 175472.32 360.00 0.0 0
   8_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 203156.91 175665.24 360.00 0.0 0
   9_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 204573.13 172720.04 360.00 0.0 0
@@ -624,9 +624,9 @@
   59_Static vehicles.artillery.Artillery$Howitzer_150mm 2 229668.64 207933.68 565.00 0.0 0
   60_Static vehicles.artillery.Artillery$Howitzer_150mm 2 229707.39 208017.93 565.00 0.0 0
   62_Static vehicles.planes.Plane$A_20G 1 203634.79 175742.37 440.00 0.0 us
-  63_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204400.82 172443.92 320.00 0.0 null
-  64_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204385.07 172495.93 319.10 0.0 null
-  65_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204373.57 172540.75 319.10 0.0 null
+  63_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204396.41 172420.38 350.00 0.0 null
+  64_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204373.79 172486.61 334.10 0.0 null
+  65_Static vehicles.planes.Plane$SHORT_StirlingIII 1 204346.11 172540.75 349.10 0.0 null
   4126_Static vehicles.artillery.Artillery$Howitzer_150mm 2 229420.67 207119.71 565.00 0.0 0
   4127_Static vehicles.artillery.Artillery$Howitzer_150mm 2 229383.99 207039.72 565.00 0.0 0
   4128_Static vehicles.artillery.Artillery$PaK40 2 228833.04 205991.70 595.00 0.0 0
@@ -681,11 +681,13 @@
   77_Static vehicles.aeronautics.Aeronautics$BarrageBalloon_1200m 1 226298.14 208679.21 360.00 0.0
   78_Static vehicles.aeronautics.Aeronautics$BarrageBalloon_1200m 1 225710.64 208888.55 360.00 0.0
   79_Static vehicles.aeronautics.Aeronautics$BarrageBalloon_1200m 1 226942.81 209986.23 360.00 0.0
+  99_Static vehicles.artillery.Artillery$DShKAA 2 203678.53 175758.82 480.00 2.0 0
+  82_Static vehicles.artillery.Artillery$_50calMG_US_M2HB 2 204668.51 172448.07 380.00 0.0 0
 [Buildings]
   0_bld House$FlagUKJack 1 204433.07 172329.50 375.00
   1_bld House$FurnitureSandbags_Round1 1 203394.22 175472.51 375.00
   2_bld House$FurnitureSandbags_Round1 1 203156.36 175665.69 404.10
-  3_bld House$FurnitureSandbags_Round1 1 204329.93 175741.69 524.10
+  3_bld House$FurnitureSandbags_Round1 1 204330.52 175741.69 524.10
   4_bld House$FurnitureSandbags_Round1 1 204470.69 175471.09 554.10
   5_bld House$ger_solder_panzerschreck 1 222176.93 232503.20 464.10
   6_bld House$ger_solder_wounded 1 222152.99 232514.15 464.10
@@ -1188,6 +1190,32 @@
   503_bld House$Weapons 1 231387.75 211341.22 565.00
   504_bld House$Filet_VERT 1 231393.00 211336.37 565.00
   505_bld House$46Trench6 1 231947.16 212397.27 385.00
+  506_bld House$FurnitureSandbag_Wall 1 204637.97 172446.85 630.00
+  507_bld House$FurnitureSandbag_Wall 1 204635.65 172448.64 360.00
+  508_bld House$FurnitureSandbag_Wall 1 204635.69 172454.44 360.00
+  509_bld House$FurnitureSandbags_Round 1 204668.77 172448.27 580.00
+  510_bld House$FurnitureSandbag_Wall 1 204668.14 172464.40 535.00
+  511_bld House$FurnitureSandbag_Wall 1 204667.65 172470.17 535.00
+  512_bld House$FurnitureSandbag_Wall 1 204666.94 172478.33 535.00
+  513_bld House$FurnitureSandbag_Wall 1 204666.45 172484.10 535.00
+  514_bld House$FurnitureSandbag_Wall 1 204663.86 172485.65 445.00
+  515_bld House$FurnitureSandbag_Wall 1 204658.09 172485.11 445.00
+  516_bld House$FurnitureSandbag_Wall 1 204646.73 172446.86 630.00
+  517_bld House$FurnitureSandbag_Wall 1 204635.75 172460.36 360.00
+  518_bld House$FurnitureSandbag_Wall 1 203680.05 175781.14 450.00
+  519_bld House$FurnitureSandbag_Wall 1 203678.34 175778.81 360.00
+  520_bld House$FurnitureSandbag_Wall 1 203678.36 175773.08 360.00
+  521_bld House$FurnitureSandbag_Wall 1 203678.40 175764.49 360.00
+  522_bld House$FurnitureSandbag_Wall 1 203699.96 175777.11 540.00
+  523_bld House$FurnitureSandbag_Wall 1 203699.92 175771.21 540.00
+  524_bld House$FurnitureSandbag_Wall 1 203699.86 175762.36 540.00
+  525_bld House$FurnitureSandbag_Wall 1 203698.07 175759.95 630.00
+  526_bld House$FurnitureSandbag_Wall 1 203692.37 175760.01 630.00
+  527_bld House$FurnitureSandbag_Wall 1 203684.38 175760.03 630.00
+  528_bld House$AirdromeControlTowerBig 1 203688.96 175770.27 630.00
+  529_bld House$FurnitureSandbags_Round 1 203678.26 175758.48 660.00
+  530_bld House$AirdromeMaskingnet 1 203714.98 175794.78 605.00
+  531_bld House$TourContr-beton2 1 204643.09 172456.68 360.00
 [BornPlace]
   2 3000 222378 232642 1 1000 200 0 0 0 0 5000 50 0 0 0 0 0 3.8 0 0 100 0 0 0 0 30 0 0 0
   2 3000 230668 229838 1 1000 200 0 0 0 0 5000 50 0 0 0 0 0 3.8 0 0 100 0 0 0 0 30 0 0 0
@@ -1294,6 +1322,40 @@
   211998 207185 100
 [Bridge]
 [House]
+  Vfwr3 1
+  Ufwr3 40
+  0gwo3 1
+  +fwo3 o0
+  -fwo3 1
+  qgMO3 1e
+  ogMO3 1
+  VggP3 z0
+  TggP3 00
+  pggP3 M0
+  +fMn3 81
+  rgMM3 800
+  VgwO3 o
+  -fgo3 1
+  vggN3 6
+  uggN3 1
+  XfMr3 G0
+  VfMr3 30
+  Ug0P3 100
+  Tg0P3 w0
+  +fMo3 C0
+  -fMo3 41
+  qg0P3 g
+  pg0P3 U1
+  og0P3 y000
+  +fwn3 2
+  VgwP3 000
+  UgwP3 000
+  TgwP3 1
+  0g0o3 2
+  +f0o3 1
+  tg0N3 50
+  sg0N3 1++
+  rg0N3 80
 [FrontMarker]
   FrontMarker0 77518.84 192011.31 1
   FrontMarker1 108169.59 196227.81 1
