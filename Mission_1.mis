@@ -6,8 +6,8 @@
   army 1
   playerNum 0
 [SEASON]
-  Year 1943
-  Month 6
+  Year 1942
+  Month 2
   Day 15
 [WEATHER]
   WindDirection 0.0
@@ -965,19 +965,14 @@
   226290.06 211491.09 120.00 0 2 8.424028396606445
   226880.56 211389.39 120.00
 [58_Chief_Road]
-  215348.02 192751.70 120.00 0 7 2.6388890743255615
-  215500.00 192900.00 20.00
-  215500.00 193100.00 20.00
-  215700.00 193300.00 20.00
-  215700.00 193500.00 20.00
-  215900.00 193700.00 20.00
-  216096.00 193894.58 120.00 0 2 2.6388890743255615
+  215939.92 193750.75 120.00 0 2 2.6388890743255615
+  216128.03 194018.58 120.00 0 2 2.6388890743255615
   216099.75 194231.66 120.00 0 2 2.6388890743255615
   216212.23 194272.39 120.00 0 2 2.6388890743255615
   216268.75 194335.05 120.00 0 2 2.6388890743255615
-  216280.44 194391.14 120.00 0 2 2.6388890743255615
-  216341.27 194388.86 120.00 0 2 2.6388890743255615
-  216368.44 194277.55 120.00
+  216295.39 194366.47 120.00 0 2 2.6388890743255615
+  216344.11 194377.22 120.00 0 2 2.6388890743255615
+  216382.17 194268.80 120.00
 [NStationary]
   0_Static vehicles.artillery.Artillery$M16_US 1 204223.29 175793.13 375.00 0.0 0
   1_Static vehicles.artillery.Artillery$M16_US 1 203651.02 175782.62 360.00 0.0 0
@@ -1173,7 +1168,7 @@
   155_Static vehicles.stationary.Stationary$Kettenkrad 2 230360.45 229562.77 460.00 0.0
   156_Static vehicles.planes.Plane$MC_202_7 2 230341.11 229557.68 224.83 0.0 it
   158_Static vehicles.planes.Plane$MC_202_3 2 230119.90 229802.34 369.83 0.0 it
-  159_Static vehicles.planes.Plane$CR_42 2 230190.92 229385.46 275.43 0.0 it
+  159_Static vehicles.planes.Plane$CR_42 2 230190.92 229385.46 275.45 0.0 it
   160_Static vehicles.stationary.Stationary$VW82 2 230356.91 229555.94 600.00 0.0
   165_Static vehicles.stationary.Stationary$VW82 2 230738.10 230042.98 680.00 0.0
   166_Static vehicles.planes.Plane$FI_156 2 230765.32 230026.74 460.00 0.0 null
@@ -1330,7 +1325,7 @@
   149_Static vehicles.planes.Plane$MC_202_7 2 230100.36 229463.43 299.83 0.0 it
   163_Static vehicles.planes.Plane$MC_202_3 2 230223.47 229481.42 194.83 0.0 it
   161_Static vehicles.planes.Plane$MC_202_3 2 230320.73 229540.66 234.83 0.0 it
-  164_Static vehicles.planes.Plane$MC_202_3 2 230365.51 229554.20 275.22 0.0 it
+  164_Static vehicles.planes.Plane$MC_202_3 2 230365.51 229554.20 274.31 0.0 it
   172_Static vehicles.planes.Plane$MC_202_3 2 230641.00 229901.51 439.10 0.0 it
   170_Static vehicles.planes.Plane$MC_202_3 2 230603.63 229894.94 439.10 0.0 it
   171_Static vehicles.planes.Plane$MC_202_3 2 230680.51 229908.78 439.10 0.0 it
@@ -1348,14 +1343,14 @@
   317_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216249.64 194983.65 360.00 0.0 0
   318_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216291.40 194342.33 360.00 0.0 0
   319_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216620.61 194043.91 360.00 0.0 0
-  320_Static vehicles.artillery.Artillery$M16_US 1 218389.18 192372.16 360.00 0.0 0
+  320_Static vehicles.artillery.Artillery$M16_US 1 216162.79 194705.70 360.00 0.0 0
   321_Static vehicles.artillery.Artillery$M16_US 1 216502.03 194982.23 360.00 0.0 0
-  322_Static ships.Ship$USSFletcherDD445 1 217157.46 195154.01 690.00 0.0 0 2 1.0
+  322_Static ships.Ship$USSFletcherDD445 1 216778.37 194934.14 690.00 0.0 0 2 1.0
   323_Static ships.Ship$Tramp 1 216486.77 194174.84 590.00 0.0 0 2 1.0
-  324_Static ships.Ship$Tramp 1 216601.31 194310.73 710.00 0.0 0 2 1.0
+  324_Static ships.Ship$Tramp 1 216601.31 194310.10 710.00 0.0 0 2 1.0
   325_Static ships.Ship$MAS501UNP 1 216531.22 194266.86 530.00 0.0 0 2 1.0
   326_Static ships.Ship$MAS501UNP 1 216550.01 194150.63 585.00 0.0 0 2 1.0
-  327_Static ships.Ship$MAS501UNP 1 216567.58 194133.10 585.00 0.0 0 2 1.0
+  328_Static ships.Ship$Tramp 1 216595.34 194229.26 575.00 0.0 0 2 1.0
 [Buildings]
   0_bld House$FlagUKJack 1 204433.07 172329.50 375.00
   1_bld House$FurnitureSandbags_Round1 1 203394.22 175472.51 375.00
@@ -2806,6 +2801,8 @@
   1446_bld House$46GRBoxes 1 222507.16 233069.17 670.00
   1447_bld House$46GRBoxes 1 222505.59 233070.34 670.00
   1448_bld House$46GRBoxes 1 222507.44 233071.79 580.00
+[Target]
+  1 1 0 0 750 216509 194250 200 0
 [BornPlace]
   2 3000 222378 232642 1 1000 200 0 0 0 0 5000 50 0 0 0 0 0 3.8 0 0 100 0 0 0 0 30 0 0 0
   2 3000 230668 229838 1 1000 200 0 0 0 0 5000 50 0 0 0 0 0 3.8 0 0 100 0 0 0 0 30 0 0 0
@@ -2824,6 +2821,7 @@
   FW-200C-3U4 0 9
   Fw-190A-1 0 9
   He-111H-6 0 9
+  Hs-129B-2 0 9
   Ju-52/3mg4e 0 9
   Ju-87B-2 0 9
   Ju-87R-2 0 9
@@ -2965,11 +2963,11 @@
   FrontMarker16 168335.88 204822.10 2
   FrontMarker17 197040.56 205147.34 2
   FrontMarker18 211245.20 201635.56 2
-  FrontMarker19 223379.17 193326.92 2
+  FrontMarker19 219896.19 189059.31 2
   FrontMarker20 239043.44 180659.18 2
   FrontMarker21 258828.58 146278.44 2
   FrontMarker22 272937.66 124871.56 2
-  FrontMarker23 281695.02 111411.18 2
+  FrontMarker23 275992.76 166478.77 2
   FrontMarker24 183904.52 208877.33 2
   FrontMarker25 148388.60 209201.76 2
   FrontMarker26 107879.27 198600.95 2
@@ -2980,6 +2978,29 @@
   FrontMarker31 158768.58 210985.35 2
   FrontMarker32 151552.63 212271.40 2
   FrontMarker33 196767.40 198275.85 1
+  FrontMarker34 218688.03 192301.72 2
+  FrontMarker35 220427.10 192486.97 2
+  FrontMarker36 218717.21 193751.78 2
+  FrontMarker37 220615.41 196315.95 2
+  FrontMarker38 220144.64 197885.20 2
+  FrontMarker39 218795.08 199140.60 2
+  FrontMarker40 217539.68 199548.61 2
+  FrontMarker41 215436.88 200207.69 2
+  FrontMarker42 213647.93 201086.48 2
+  FrontMarker43 212329.76 201745.56 2
+  FrontMarker44 208908.79 197037.80 1
+  FrontMarker45 210697.74 198073.51 1
+  FrontMarker46 212423.91 198481.52 1
+  FrontMarker47 214463.94 198230.44 1
+  FrontMarker48 217465.31 196584.59 1
+  FrontMarker49 214658.92 196935.89 1
+  FrontMarker50 215964.76 195604.66 1
+  FrontMarker51 215877.65 194911.91 1
+  FrontMarker52 215374.11 192518.36 1
+  FrontMarker53 214118.71 190195.86 1
+  FrontMarker54 219896.61 194633.97 2
+  FrontMarker55 224751.79 181850.15 1
+  FrontMarker56 228049.33 185964.77 2
 [Trigger]
   Version 12
   0_Trigger 0 1 0 0 226298 209850 200 0 10000 6_Chief|7_Chief|8_Chief|9_Chief|10_Chief|11_Chief|68_Static|67_Static|66_Static|40_Static|79_Static 9 0 1 100 0 5.0 The Allied fleet has made it to the rendevouz point, the landing has begun.
@@ -2990,7 +3011,7 @@
   5_Trigger 0 1 0 0 229337 208030 140 0 10000 34_Chief|35_Chief|36_Chief|44_Chief 9 0 1 100 0
   6_Trigger 0 1 0 0 229203 207815 170 0 10000 37_Chief|38_Chief|39_Chief|45_Chief 9 0 1 100 0
   7_Trigger 0 1 0 0 229088 207570 100 0 10000 40_Chief|41_Chief|42_Chief 0 0 1 100 0
-  8_Trigger 3 1 0 0 231978 212916 100 0 10000 3 0 1 100 0 120.0 The Allies have reached their main objective, establishing a firm beach head on Italy.
+  8_Trigger 3 1 0 0 231978 212916 100 0 10000 3 0 1 100 0 5.0 The Allies have reached their main objective, establishing a firm beach head on Italy.
   9_Trigger 0 1 0 0 231090 210290 100 0 10000 46_Chief|47_Chief|48_Chief 3 0 1 100 0
   10_Trigger 0 2 0 0 203405 177622 3600 0 10000 usa0100 4 0 1 100 0
   11_Trigger 0 1 0 0 222433 232732 3400 0 10000 g0100 4 0 1 100 0
