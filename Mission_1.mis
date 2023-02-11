@@ -719,7 +719,7 @@
   205795.36 198800.89 120.00 0 2 5.555555555555555
   212427.30 206446.45 120.00 0 2 5.555555555555555
   218580.05 207130.36 120.00 0 2 4.166666666666667
-  222373.08 207856.28 120.00 0 2 9.774444580078125
+  220702.91 207597.95 120.00 0 2 9.774444580078125
   223658.33 208248.84 120.00 0 2 9.774444580078125
   224542.44 208445.88 120.00 0 2 5.555555555555555
   226670.19 207976.25 120.00 0 2 5.555555555555555
@@ -1168,7 +1168,7 @@
   155_Static vehicles.stationary.Stationary$Kettenkrad 2 230360.45 229562.77 460.00 0.0
   156_Static vehicles.planes.Plane$MC_202_7 2 230341.11 229557.68 224.83 0.0 it
   158_Static vehicles.planes.Plane$MC_202_3 2 230119.90 229802.34 369.83 0.0 it
-  159_Static vehicles.planes.Plane$CR_42 2 230190.92 229385.46 275.47 0.0 it
+  159_Static vehicles.planes.Plane$CR_42 2 230190.92 229385.46 275.49 0.0 it
   160_Static vehicles.stationary.Stationary$VW82 2 230356.91 229555.94 600.00 0.0
   165_Static vehicles.stationary.Stationary$VW82 2 230738.10 230042.98 680.00 0.0
   166_Static vehicles.planes.Plane$FI_156 2 230765.32 230026.74 460.00 0.0 null
@@ -1325,7 +1325,7 @@
   149_Static vehicles.planes.Plane$MC_202_7 2 230100.36 229463.43 299.83 0.0 it
   163_Static vehicles.planes.Plane$MC_202_3 2 230223.47 229481.42 194.83 0.0 it
   161_Static vehicles.planes.Plane$MC_202_3 2 230320.73 229540.66 234.83 0.0 it
-  164_Static vehicles.planes.Plane$MC_202_3 2 230365.51 229554.20 273.41 0.0 it
+  164_Static vehicles.planes.Plane$MC_202_3 2 230365.51 229554.20 272.53 0.0 it
   172_Static vehicles.planes.Plane$MC_202_3 2 230641.00 229901.51 439.10 0.0 it
   170_Static vehicles.planes.Plane$MC_202_3 2 230603.63 229894.94 439.10 0.0 it
   171_Static vehicles.planes.Plane$MC_202_3 2 230680.51 229908.78 439.10 0.0 it
@@ -1340,17 +1340,15 @@
   117_Static vehicles.planes.Plane$BF_109G3 2 222186.92 232067.65 215.00 0.0 null
   118_Static vehicles.planes.Plane$BF_109G3 2 222196.13 232081.76 185.00 0.0 null
   297_Static vehicles.planes.Plane$BF_109F2U 2 221960.26 232196.81 325.00 0.0 null
-  317_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216249.64 194983.65 360.00 0.0 0
   318_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216291.40 194342.33 360.00 0.0 0
   319_Static vehicles.artillery.Artillery$StBofors_40mm_UK 1 216620.61 194043.91 360.00 0.0 0
   320_Static vehicles.artillery.Artillery$M16_US 1 216162.79 194705.70 360.00 0.0 0
-  321_Static vehicles.artillery.Artillery$M16_US 1 216502.03 194982.23 360.00 0.0 0
-  322_Static ships.Ship$USSFletcherDD445 1 216778.37 194934.14 690.00 0.0 0 2 1.0
-  323_Static ships.Ship$Tramp 1 216486.77 194174.84 590.00 0.0 0 2 1.0
-  324_Static ships.Ship$Tramp 1 216601.31 194310.10 710.00 0.0 0 2 1.0
+  322_Static ships.Ship$USSFletcherDD445 1 216778.37 194934.14 690.00 0.0 0 1 1.0
+  323_Static ships.Ship$Tramp 1 216486.77 194174.84 590.00 0.0 0 1 1.0
+  324_Static ships.Ship$Tramp 1 216601.31 194310.10 710.00 0.0 0 1 1.0
   325_Static ships.Ship$MAS501UNP 1 216531.22 194266.86 530.00 0.0 0 2 1.0
   326_Static ships.Ship$MAS501UNP 1 216550.01 194150.63 585.00 0.0 0 2 1.0
-  328_Static ships.Ship$Tramp 1 216595.34 194229.26 575.00 0.0 0 2 1.0
+  328_Static ships.Ship$Tramp 1 216595.34 194229.26 575.00 0.0 0 1 1.0
 [Buildings]
   0_bld House$FlagUKJack 1 204433.07 172329.50 375.00
   1_bld House$FurnitureSandbags_Round1 1 203394.22 175472.51 375.00
@@ -3003,15 +3001,14 @@
   FrontMarker56 228049.33 185964.77 2
 [Trigger]
   Version 12
-  0_Trigger 0 1 0 0 226298 209850 200 0 10000 6_Chief|7_Chief|8_Chief|9_Chief|10_Chief|11_Chief|68_Static|67_Static|66_Static|40_Static|79_Static 9 0 1 100 0 5.0 The Allied fleet has made it to the rendevouz point, the landing has begun.
-  1_Trigger 0 1 0 0 226083 209549 200 0 10000 12_Chief|13_Chief|14_Chief|17_Chief|15_Chief|16_Chief|69_Static|70_Static|71_Static|72_Static|74_Static 9 0 1 100 0 5.0 The Allied fleet has made it to the rendevouz point, the landing has begun.
+  0_Trigger 0 1 0 0 226298 209850 200 0 10000 6_Chief|7_Chief|8_Chief|9_Chief|10_Chief|11_Chief|68_Static|67_Static|66_Static|40_Static|79_Static 9 0 1 100 0
+  1_Trigger 0 1 0 0 226083 209549 200 0 10000 12_Chief|13_Chief|14_Chief|17_Chief|15_Chief|16_Chief|69_Static|70_Static|71_Static|72_Static|74_Static 9 0 1 100 0
   2_Trigger 0 1 0 0 229449 208342 150 0 10000 18_Chief|32_Chief|33_Chief|43_Chief 9 0 1 100 0
-  3_Trigger 0 1 0 0 225944 209295 200 0 10000 19_Chief|20_Chief|21_Chief|22_Chief|73_Static|78_Static 9 0 1 100 0 5.0 The Allied fleet has made it to the rendevouz point, the landing has begun.
-  4_Trigger 0 1 0 0 225776 209048 200 0 10000 23_Chief|24_Chief|25_Chief|26_Chief|75_Static|76_Static|77_Static 9 0 1 100 0 5.0 The Allied fleet has made it to the rendevouz point, the landing has begun.
+  3_Trigger 0 1 0 0 225944 209295 200 0 10000 19_Chief|20_Chief|21_Chief|22_Chief|73_Static|78_Static 9 0 1 100 0
+  4_Trigger 0 1 0 0 225776 209048 200 0 10000 23_Chief|24_Chief|25_Chief|26_Chief|75_Static|76_Static|77_Static 9 0 1 100 0
   5_Trigger 0 1 0 0 229337 208030 140 0 10000 34_Chief|35_Chief|36_Chief|44_Chief 9 0 1 100 0
   6_Trigger 0 1 0 0 229203 207815 170 0 10000 37_Chief|38_Chief|39_Chief|45_Chief 9 0 1 100 0
   7_Trigger 0 1 0 0 229088 207570 100 0 10000 40_Chief|41_Chief|42_Chief 0 0 1 100 0
-  8_Trigger 3 1 0 0 231978 212916 100 0 10000 3 0 1 100 0 120.0 The Allies have reached their main objective, establishing a firm beach head on Italy.
   9_Trigger 0 1 0 0 231090 210290 100 0 10000 46_Chief|47_Chief|48_Chief 3 0 1 100 0
   10_Trigger 0 2 0 0 203405 177622 3600 0 10000 usa0100 4 0 1 100 0
   11_Trigger 0 1 0 0 222433 232732 3400 0 10000 g0100 4 0 1 100 0
